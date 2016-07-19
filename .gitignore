@@ -1,0 +1,8 @@
+#ignore configuration files.
+.*
+
+#ignore folders with data files in them.
+
+MODIS/*
+MCD/*
+SMAP/*
